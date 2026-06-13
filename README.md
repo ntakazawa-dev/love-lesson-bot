@@ -1,3 +1,5 @@
+![恋愛Lessonボット](love-lesson-bot-screen.png)
+
 # 💘 恋愛Lessonボット
 
 ## 概要
