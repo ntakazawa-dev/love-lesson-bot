@@ -13,4 +13,4 @@
 - 今日できる小さな一歩提案
 
 ## 制作者
-Suika (ntakazawa-dev)
+ntakazawa-dev
