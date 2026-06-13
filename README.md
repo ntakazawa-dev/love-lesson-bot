@@ -2,6 +2,8 @@
 
 # 💘 恋愛Lessonボット
 
+![開発画面](love-lesson-bot-workflow.png)
+
 ## 概要
 
 恋愛経験が少ない方や自信がない方に向けて作成した恋愛相談AIです。
